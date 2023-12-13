@@ -1,7 +1,4 @@
-
-
-
-
+!code for generating hamiltonain matrix for 2d Spinless Hubbard Model at half filling.
 program main
     use iso_fortran_env
     implicit none
