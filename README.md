@@ -3,13 +3,17 @@
 ## [2] Graph Traversal Algorithms using mathematica and Python package - NetworkX.
 
 ## [3] Block Tri-Diagonalisation of Sparse, Banded Matrix.
-<img width="725" alt="bandsize" src="https://github.com/karakashdeep/many-few-body-model-simulations/assets/60542977/fff447a2-5776-4e62-9ede-5d22bf52b0f4">
+<img width="425" alt="bandsize" src="https://github.com/karakashdeep/many-few-body-model-simulations/assets/60542977/fff447a2-5776-4e62-9ede-5d22bf52b0f4">
 
 ## [4] Implementation of Fock space Recursive Greens functions (FRGF) and its integration with Bandwidth reduction Algorithms
-Recursive procedure involves obtaining a Block-Tridiagonal Representation, followed by (i) Forward (ii) Backward and (iii) off-Diagonal Recursive relations
-<img width="590" alt="recursion" src="https://github.com/karakashdeep/many-few-body-model-simulations/assets/60542977/4e05b4bd-e9fd-4abe-9771-5a9096d2ea75">
+Recursive procedure involves obtaining a Block-Tridiagonal Representation, followed by (i) __Forward__ (ii) __Backward__ and (iii) __off-Diagonal__ Recursive relations
+
+<img width="600" alt="recursion" src="https://github.com/karakashdeep/many-few-body-model-simulations/assets/60542977/4e05b4bd-e9fd-4abe-9771-5a9096d2ea75">
 
 ## [5] Some prelim results and testing ideas.
+### Memory Scaling
+<img width="400" alt="image" src="https://github.com/karakashdeep/many-few-body-model-simulations/assets/60542977/0ca8314e-6418-4f5a-84e9-e38854fdd817">
+
 ### Minimum Spanning Tree given by Breadth First Search (BFS)
 <img width="300" alt="Screenshot 2023-11-21 at 4 41 46 PM" src="https://github.com/karakashdeep/many-few-body-model-simulations/assets/60542977/440abb54-4004-4bf8-9c84-e217d36f4df9"> 
 
